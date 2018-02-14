@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d5023452-ee74-4498-85b9-f3bff05cc4fe",
+    "Name": "UsrNUnitSourceCode",
+    "ModifiedOnUtc": "\/Date(1518444239000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Source Code To Test with NUnit",
+    "DependsOn": []
+  }
+}

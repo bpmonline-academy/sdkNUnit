@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "56212eed-5f7e-423b-baf2-b45d762924e9",
+    "PackageVersion": "7.8.0",
+    "Name": "sdkNUnit",
+    "ModifiedOnUtc": "\/Date(1518438953000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "90cfe1be-635b-4ea1-8558-c0bb5ba4ee86",
+        "PackageVersion": "7.8.0",
+        "Name": "Calendar"
+      }
+    ]
+  }
+}
